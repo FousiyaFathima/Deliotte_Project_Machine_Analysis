@@ -37,7 +37,6 @@ Through this program, I simulated the workflow of a Data Analyst at Deloitte, de
 ## Author
 
 **Fousiya Fathima**
- Aspiring Data Analyst | Bachelor of Computer Applications (BCA) Student
 *Aspiring Data Analyst | Bachelor of Computer Applications (BCA) Student*
 
 > Driven by turning complex data points into clear business strategies. Open to internship and entry-level data analytics opportunities.
