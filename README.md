@@ -18,7 +18,7 @@ This repository contains the deliverables and insights from my completion of the
 * **Business Intelligence:** Dashboard Architecture, KPI Framework Design
 * **Analytics Framework:** Descriptive & Trend Analysis, Data Interpretation
 
-## DashBoard 
+## DashBoard Preview
 
 ![Dashboard](Image/dashboard.png)
 
