@@ -18,6 +18,10 @@ This repository contains the deliverables and insights from my completion of the
 * **Business Intelligence:** Dashboard Architecture, KPI Framework Design
 * **Analytics Framework:** Descriptive & Trend Analysis, Data Interpretation
 
+## DashBoard 
+
+![Dashboard](Image/dashboard.png)
+
 
 ## Core Competencies & Learning Outcomes
 
@@ -31,8 +35,6 @@ Through this program, I simulated the workflow of a Data Analyst at Deloitte, de
 ## Certification
 
 * **Program:** Deloitte Data Analytics Virtual Experience (Forage)
-* **Credentials:** Earned upon successfully passing all practical tasks and data analysis modules.
-
 
 ## Author
 
